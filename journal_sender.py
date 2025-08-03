@@ -1,0 +1,1 @@
+#when a new journal is added to the tmp_folder the process gets notified and sends it via whatsapp
